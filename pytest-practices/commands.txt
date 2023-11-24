@@ -1,0 +1,6 @@
+# Command to show setup_method and teardown_method
+> pytest tests/test_circle.py -s
+
+
+# command to run only slow tests
+> pytest -m slow
